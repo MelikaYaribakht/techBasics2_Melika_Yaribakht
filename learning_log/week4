@@ -1,0 +1,10 @@
+# Week 4 – Arduino: Buzzers, Sensors & Buttons
+
+This week, I worked with different Arduino components and learned how to make them interact.
+
+- **Buzzers:** Tested active and passive buzzers and used the `tone()` function to play different sounds and melodies.
+- **Ultrasonic Sensor:** Learned how to measure distances using sound waves and detect nearby objects.
+- **Push Buttons:** Practiced connecting buttons and using pull-up and pull-down resistors.
+- **Mini Project:** Combined multiple buttons with a passive buzzer to create a simple musical instrument.
+
+I especially enjoyed learning how simple components can be combined to build interactive systems, such as parking assistance and object detection.
